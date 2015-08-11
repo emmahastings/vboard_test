@@ -1,4 +1,4 @@
-package vboard;
+package com.test.vboard;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
