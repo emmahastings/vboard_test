@@ -1,8 +1,6 @@
-package repository;
+package com.test.vboard;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.test.vboard.entity.Board;
 
 public interface BoardRepository extends JpaRepository<Board, Long> {
 

@@ -1,4 +1,4 @@
-package com.test.vboard.entity;
+package com.test.vboard;
 
 import java.util.Date;
 

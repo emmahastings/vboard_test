@@ -1,4 +1,4 @@
-package com.test.vboard.controller;
+package com.test.vboard;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

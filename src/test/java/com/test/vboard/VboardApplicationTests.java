@@ -5,9 +5,6 @@ import org.junit.runner.RunWith;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 import com.test.vboard.VboardApplication;
-import com.test.vboard.entity.Board;
-
-import repository.BoardRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
@@ -42,3 +39,4 @@ public class VboardApplicationTests {
 	}
 
 }
+ 
